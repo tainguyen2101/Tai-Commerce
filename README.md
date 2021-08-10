@@ -7,7 +7,7 @@ Thank you Javascript Mastery so much for the [tutorial](https://www.youtube.com/
 ## What is implemented as of now
 
 * Fully functional front end that:
-    * Display items from [commercejs](commercejs.com).
+    * Display items from [commercejs](https://wwww.commercejs.com).
     * Cart page with functional button.
 
 ## What is coming next
