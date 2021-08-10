@@ -20,6 +20,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+If you clone this from my Github then node_modules will not be availble so first please run:
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
