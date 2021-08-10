@@ -1,3 +1,19 @@
+# Overview
+
+This project is to create an e-commerce website using ReactJs, CommerceJs and Stripe. 
+Thank you Javascript Mastery so much for the [tutorial](https://www.youtube.com/watch?v=377AQ0y6LPA&t=5885s&ab_channel=JavaScriptMastery)
+
+
+## What is implemented as of now
+
+* Fully functional front end that:
+    * Display items from commercejs.
+    * Cart page with functional button.
+
+## What is coming next
+
+* Back-end using Stripe to handle checkout
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
